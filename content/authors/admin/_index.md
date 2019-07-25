@@ -73,4 +73,4 @@ Daniel Fryer is a PhD student in statistics and machine learning at The Universi
 and a sessional lecturer in statistics at La Trobe University. 
 His main research interests are in both theoretical model development and application of deep learning algorithms, particularly for the analysis of biomedical and neuroactivation data. A secondary and
 growing interest is in what might be called Research Software Meta-science - the development of user-friendly toolchains that can guarantee robust and reproducible results in the mathematical 
-sciences while facilitating inclusive and open scientific communities.
+sciences, while facilitating inclusive and open scientific communities.
