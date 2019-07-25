@@ -23,9 +23,9 @@ organizations:
 bio: My research interests include machine learning models and research software meta-science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- Machine Learning
+- Research Software Meta-science
 
 education:
   courses:
