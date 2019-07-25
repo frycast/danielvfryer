@@ -33,7 +33,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "user-chart"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
   description = ""
