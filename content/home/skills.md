@@ -37,5 +37,17 @@ subtitle = ""
   icon_pack = "fas"
   name = "Teaching"
   description = ""
+  
+[[feature]]
+  icon = "infinity"
+  icon_pack = "fas"
+  name = "Mathematics"
+  description = ""
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = ""
 
 +++
