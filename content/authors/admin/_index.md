@@ -74,5 +74,5 @@ user_groups:
 
 Daniel Fryer is a PhD student in statistics and machine learning at The University of Queensland,
 and a sessional lecturer in statistics at La Trobe University. 
-His main research interests are in both theoretical model development and application of interpretable machine learning algorithms, particularly in the field of neuroinformatics, for the analysis of behavioural inferences collected by passive smart-phone sensor data for conducting continuous psychiatric prognoses. A secondary and interest is in what might be called Research Software Engineering - the development of user-friendly toolchains that can guarantee robust and reproducible results in the mathematical 
+His main research interests are in both theoretical model development and application of interpretable machine learning algorithms, particularly in the field of neuroinformatics, for the analysis of behavioural inferences collected by passive smart-phone sensor data for conducting continuous psychiatric prognoses. A secondary interest is in what might be called Research Software Engineering - the development of user-friendly toolchains that can guarantee robust and reproducible results in the mathematical 
 sciences, while facilitating inclusive and open scientific communities.
