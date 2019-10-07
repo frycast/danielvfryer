@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sessional Lecturer and PhD Student in Statistics
+role: Sessional Lecturer and PhD Candidate in Statistics
 
 # Organizations/Affiliations
 organizations:
