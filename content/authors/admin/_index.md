@@ -73,6 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Daniel Fryer is a PhD student in statistics and machine learning at The University of Queensland,
-and a sessional lecturer in statistics at La Trobe University. 
+Daniel Fryer is a sessional lecturer in statistics at La Trobe University and a PhD candidate in statistics and machine learning at The University of Queensland.
 His main research interests are in both theoretical model development and application of interpretable machine learning algorithms, particularly in the field of neuroinformatics. A secondary interest is in what might be called Research Software Engineering - the development of user-friendly toolchains that can help guarantee robust and reproducible results in the mathematical sciences, while facilitating inclusive and open scientific communities.
