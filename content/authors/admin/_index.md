@@ -24,8 +24,9 @@ bio: My research interests include machine learning models and research software
 
 interests:
 - Statistics
+- Pure Mathematics
 - Machine Learning
-- Research Software Meta-science
+- Research Software Engineering
 
 education:
   courses:
