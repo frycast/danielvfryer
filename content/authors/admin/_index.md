@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sessional Lecturer and PhD Candidate in Statistics
+role: PhD Candidate in Statistics, Sessional Lecturer, and Young Statisticians' Rep.
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,7 @@ organizations:
   url: ""
 - name: La Trobe University
   url: ""
+- name: Statistical Society of Australia (SSA)
 
 # Short bio (displayed in user profile at end of posts)
 bio:
