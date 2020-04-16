@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning models and research software meta-science.
+bio:
 
 interests:
 - Statistics
@@ -73,5 +73,13 @@ user_groups:
 - Visitors
 ---
 
-Daniel Fryer is a sessional lecturer in statistics at La Trobe University and a PhD candidate in statistics and machine learning at The University of Queensland.
-His main research interests are in both theoretical model development and application of interpretable machine learning algorithms, particularly in the field of neuroinformatics. A secondary interest is in what might be called Research Software Engineering - the development of user-friendly toolchains that can help guarantee robust and reproducible results in the mathematical sciences, while facilitating inclusive and open scientific communities.
+I'm Daniel Fryer (but feel free to call me Danny). 
+I'm a PhD candidate in statistics at The University of Queensland.
+I'm also a sessional lecturer at La Trobe University, Melbourne, and the Young Statisticians'
+Representative at the Victorian Branch of the Statistical Society of Australia (SSA Vic).
+
+My main research interests involve using probability theory to gain interpretable, qualitative and causal insights in statistics, machine learning and AI, in the presence of complex, nonlinear and noisy data. I'm also into Research Software Engineering - the development of convenient and simple software that can help scientists generate interesting, robust and reproducible results.
+
+Fill out the contact form below if you'd like to get in touch. I'm always open to learning,
+teaching and working together on new ideas. I can also mention things to the SSA Vic council
+if you have any questions or desires to pass on.
