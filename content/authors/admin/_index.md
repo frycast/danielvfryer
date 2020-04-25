@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I'm Daniel Fryer (but feel free to call me Danny). 
+I'm Daniel Fryer. 
 I'm a PhD candidate in statistics at The University of Queensland.
 I'm also a sessional lecturer at La Trobe University, Melbourne, and the Young Statisticians'
 Representative at the Victorian Branch of the Statistical Society of Australia (SSA Vic).
