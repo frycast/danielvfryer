@@ -58,6 +58,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6032-0522
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/dvfryer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -76,11 +79,10 @@ user_groups:
 
 I'm Daniel Fryer. 
 I'm a PhD candidate in statistics at The University of Queensland.
-I'm also a sessional lecturer at La Trobe University, Melbourne, and the Young Statisticians'
-Representative at the Victorian Branch of the Statistical Society of Australia (SSA Vic).
+I'm also a sessional lecturer at La Trobe University, Melbourne, and the Young Statisticians' Representative at the Victorian Branch of the Statistical Society of Australia (SSA Vic).
 
 My main research interests involve using probability theory to gain interpretable, qualitative and causal insights in statistics, machine learning and AI, in the presence of complex, nonlinear and noisy data. I'm also into Research Software Engineering - the development of convenient and simple software that can help scientists generate interesting, robust and reproducible results.
 
-Fill out the contact form below if you'd like to get in touch. I'm always open to learning,
-teaching and working together on new ideas. I can also mention things to the SSA Vic council
-if you have any questions or desires to pass on.
+Fill out the contact form below if you'd like to get in touch. 
+I'm always open to learning, teaching and working together on new ideas. 
+I can also mention things to the SSA Vic council if you have any questions or desires to pass on.
