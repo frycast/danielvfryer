@@ -82,13 +82,13 @@ user_groups:
 
 I am Daniel Fryer, a statistician, programmer and teacher, completing my PhD at UQ.
 
-I specialise in making complex models more transparent and understandable. I’ve recently been working at La Trobe University as a sessional lecturer and collaborating with other researchers locally and abroad. I am the young statisticians' representative and a council member at the Statistical Society of Australia, Victorian branch. Biannually, I teach a short SQL course of mine to academic and industry professionals in New Zealand, for the New Zealand Social Statistics Network. 
+I specialise in making complex models more transparent and understandable. I’ve recently been working at La Trobe University as a sessional lecturer, teaching meta-analysis and database design. I am the young statisticians' representative and a council member at the Statistical Society of Australia, Victorian branch. I also teach a short SQL course biannually to academic and industry professionals in New Zealand, for the New Zealand Social Statistics Network. 
 
-I'm also into Research Software Engineering - the development of convenient and simple software that can help scientists generate interesting, robust and reproducible results.
+Another thing I'm into is Research Software Engineering - the development of convenient and simple software that can help scientists generate interesting, robust and reproducible results.
 
 Something I find fascinating is that statistics is used in every industry and every scientific field, but so few people find it intuitive.
 
 Fill out the contact form below if you'd like to get in touch. 
-I'm always open to learning, teaching and working together on new ideas. 
+I'm always open to learning, teaching and working together. 
 I can also mention things to the SSA Vic council if you have any questions or desires to pass on.
 
