@@ -80,13 +80,9 @@ user_groups:
 - Visitors
 ---
 
-I am Daniel Fryer, a statistician, programmer and teacher, completing my PhD at UQ.
+I specialise in making complex models more transparent, understandable and explainable. Something I find fascinating is that statistics is used in every industry and every scientific field, but so much of it is unintuitive and easily misinterpreted. I’ve recently been publishing papers that propose new machine learning methods and apply them to a number of interesting and impactful real-world problems. To make my research useful and accessible, I've been writing R, Python and Julia functions and libraries.
 
-I specialise in making complex models more transparent and understandable. I’ve recently been working at La Trobe University as a sessional lecturer, teaching meta-analysis and database design. I am the young statisticians' representative and a council member at the Statistical Society of Australia, Victorian branch. I also teach a short SQL course biannually to academic and industry professionals in New Zealand, for the New Zealand Social Statistics Network. 
-
-Another thing I'm into is Research Software Engineering - the development of convenient and simple software that can help scientists generate interesting, robust and reproducible results.
-
-Something I find fascinating is that statistics is used in every industry and every scientific field, but so few people find it intuitive.
+Lately I've been working at The University of Queensland and La Trobe University as a sessional lecturer, teaching data science, meta-analysis and database design. I am the Early Career and Student Statisticians' Representative and a council member at the Statistical Society of Australia, Victorian branch. I've designed a short SQL course that I teach biannually in New Zealand, targeted at academic and industry professionals, for the New Zealand Social Statistics Network.
 
 Fill out the contact form below if you'd like to get in touch. 
 I'm always open to learning, teaching and working together. 
