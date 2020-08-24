@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Statistics, Sessional Lecturer, and Young Statisticians' Rep.
+role: PhD Candidate in Statistics / Sessional Lecturer / Father / Early Career and Student Statisticians' Representative
 
 # Organizations/Affiliations
 organizations:
