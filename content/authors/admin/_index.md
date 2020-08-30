@@ -80,7 +80,7 @@ user_groups:
 - Visitors
 ---
 
-I specialise in making complex models more transparent, understandable and explainable. I find it fascinating that statistics is used in every industry and scientific field, but so much of it is unintuitive and misinterpreted. I’ve recently been publishing papers on new machine learning methods, and applying them to a number of impactful real-world problems. To make my research accessible, I’ve been writing open source packages and libraries in R, Python and Julia.
+I specialise in making complex models more transparent, understandable and explainable. It's fascinating that statistics is used in every industry and scientific field, but so much of it is unintuitive and misinterpreted. I’ve recently been publishing papers on new machine learning methods, and applying them to a number of impactful real-world problems. To make my research accessible, I write useful software packages and libraries in R, Python and Julia.
 
 Lately, I've been working at The University of Queensland and La Trobe University as a sessional lecturer, teaching meta-analysis, database design and other postgraduate data science courses. I am the Early Career and Student Statisticians' Representative and a council member at the Statistical Society of Australia, Victorian branch. I've designed a short SQL course that I teach biannually in New Zealand, targeted at academic and industry professionals, for the New Zealand Social Statistics Network.
 
