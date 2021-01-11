@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Statistics / Sessional Lecturer / Father / Early Career and Student Statisticians' Representative
+role: PhD Candidate / Sessional Lecturer / Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
